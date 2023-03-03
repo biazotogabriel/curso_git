@@ -33,6 +33,12 @@ def create_dataframe_section(df):
 
     return None
 
+def create_answers_section(df):
+    
+    print('Qualquer função')
+    
+    return None
+
 def main():
     df = load_data()
 
