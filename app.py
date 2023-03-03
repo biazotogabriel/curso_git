@@ -28,13 +28,16 @@ def create_dataframe_section(df):
     | km_per_year | Quantidade de Quilometros percorridos a cada ano |
     | km_per_month | Quantidade de Quilometros percorridos por mês |
     """
-    
+
     col_2.markdown(data_description)
 
     return None
 
 def main():
     df = load_data()
+
+    create_dataframe_section(df)
+
     st.dataframe(df)
     
 if __name__ == '__main__':
