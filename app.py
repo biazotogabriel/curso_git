@@ -39,6 +39,8 @@ def main():
     create_dataframe_section(df)
 
     st.dataframe(df)
+
+    
     
 if __name__ == '__main__':
     main()
