@@ -1,2 +1,4 @@
 # Curso de Git
-Este repositório foi criado para hospedar o esqueleto do projeto que será utilizado para explicar e ensinar o uso básico do Git dentro da Comunidade DS
+Este repositório foi criado a fim de hospedar o projeto desenvolvido no curso de fundamento da proframação e que foi utilizado para fins de didática no curso de --Git--
+
+[Link para o Dashboard](https://biazotogabriel-curso-git-app-di5yzx.streamlit.app/)
